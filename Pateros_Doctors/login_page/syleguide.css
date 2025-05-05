@@ -1,0 +1,5 @@
+:root {
+  --color-text-default-secondary: var(--color-primitives-gray-500);
+  --variable-collection-primary: rgba(59, 154, 184, 1);
+  --color-primitives-gray-500: rgba(117, 117, 117, 1);
+}

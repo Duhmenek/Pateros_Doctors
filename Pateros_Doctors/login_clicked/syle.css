@@ -1,0 +1,335 @@
+.login-clicked {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login-clicked .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 734px;
+}
+
+.login-clicked .overlap {
+  position: relative;
+  width: 1442px;
+  height: 734px;
+}
+
+.login-clicked .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 656px;
+  top: 78px;
+  left: 2px;
+  background-color: #ecf6ff;
+}
+
+.login-clicked .hero {
+  display: flex;
+  width: 1428px;
+  align-items: center;
+  justify-content: center;
+  gap: 134px;
+  position: absolute;
+  top: 61px;
+  left: 5px;
+}
+
+.login-clicked .group {
+  position: relative;
+  width: 528.34px;
+  height: 276.42px;
+}
+
+.login-clicked .frame {
+  display: flex;
+  width: 167px;
+  height: 55px;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  padding: 10px 21px;
+  position: absolute;
+  top: 221px;
+  left: 0;
+  background-color: #57c1b7;
+  border-radius: 12px;
+}
+
+.login-clicked .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-clicked .frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 528px;
+  align-items: flex-start;
+  gap: 37px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.login-clicked .div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 21px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login-clicked .get-expert-medical {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 56.8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-clicked .span {
+  color: #207a95;
+}
+
+.login-clicked .text-wrapper-2 {
+  color: #ffffff;
+}
+
+.login-clicked .text-wrapper-3 {
+  color: #57c1b7;
+}
+
+.login-clicked .p {
+  position: relative;
+  width: 390px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--color-text-default-secondary);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-clicked .mask-group {
+  position: relative;
+  width: 618.8px;
+  height: 672.08px;
+}
+
+.login-clicked .header {
+  position: absolute;
+  width: 1440px;
+  height: 97px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.login-clicked .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 97px;
+}
+
+.login-clicked .rectangle-2 {
+  position: absolute;
+  width: 1440px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  background-color: #ecf6ff;
+}
+
+.login-clicked .frame-2 {
+  display: flex;
+  width: 1295px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  top: 18px;
+  left: 51px;
+}
+
+.login-clicked .img {
+  position: relative;
+  width: 354px;
+  height: 79px;
+  object-fit: cover;
+}
+
+.login-clicked .navbar {
+  display: flex;
+  width: 466px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.login-clicked .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #57c1b7;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-clicked .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-clicked .background-blur {
+  position: absolute;
+  width: 1440px;
+  height: 734px;
+  top: 0;
+  left: 0;
+  background-color: #207a95ab;
+}
+
+.login-clicked .rectangle-3 {
+  position: absolute;
+  width: 762px;
+  height: 541px;
+  top: 99px;
+  left: 341px;
+  background-color: #ffffff;
+  border-radius: 23px;
+}
+
+.login-clicked .line {
+  position: absolute;
+  width: 1px;
+  height: 394px;
+  top: 209px;
+  left: 719px;
+  object-fit: cover;
+}
+
+.login-clicked .text-wrapper-6 {
+  position: absolute;
+  top: 137px;
+  left: 608px;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #207a95;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-clicked .group-2 {
+  position: absolute;
+  width: 163px;
+  height: 248px;
+  top: 246px;
+  left: 448px;
+}
+
+.login-clicked .patient {
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.login-clicked .overlap-group-wrapper {
+  position: absolute;
+  width: 165px;
+  height: 53px;
+  top: 195px;
+  left: 0;
+}
+
+.login-clicked .div-wrapper {
+  position: relative;
+  width: 163px;
+  height: 53px;
+  background-image: url(./img/rectangle-17.svg);
+  background-size: 100% 100%;
+}
+
+.login-clicked .text-wrapper-7 {
+  left: 30px;
+  position: absolute;
+  width: 102px;
+  top: 16px;
+  font-family: "Plus Jakarta Sans-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login-clicked .group-3 {
+  position: absolute;
+  width: 163px;
+  height: 248px;
+  top: 246px;
+  left: 833px;
+}
+
+.login-clicked .doctor {
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  top: 0;
+  left: 2px;
+  object-fit: cover;
+}
+
+.login-clicked .overlap-group-2 {
+  position: relative;
+  width: 163px;
+  height: 53px;
+  background-image: url(./img/image.svg);
+  background-size: 100% 100%;
+}
+
+.login-clicked .text-wrapper-8 {
+  left: 31px;
+  position: absolute;
+  width: 102px;
+  top: 16px;
+  font-family: "Plus Jakarta Sans-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}

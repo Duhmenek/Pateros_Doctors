@@ -1,0 +1,788 @@
+.consultation-history {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.consultation-history .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 850px;
+  position: relative;
+}
+
+.consultation-history .overlap {
+  position: absolute;
+  width: 1201px;
+  height: 850px;
+  top: 0;
+  left: 239px;
+  background-color: #ecf6ff;
+}
+
+.consultation-history .overlap-group {
+  position: absolute;
+  width: 1157px;
+  height: 686px;
+  top: 128px;
+  left: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 1px solid;
+  border-color: #0000001a;
+}
+
+.consultation-history .frame {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: absolute;
+  top: 19px;
+  left: 19px;
+}
+
+.consultation-history .div-wrapper {
+  display: flex;
+  width: 200px;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 8px;
+}
+
+.consultation-history .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #7a7d84;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.consultation-history .frame-2 {
+  display: flex;
+  width: 200px;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--variable-collection-light-grey);
+  border-radius: 8px;
+}
+
+.consultation-history .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--variable-collection-primary);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.consultation-history .line {
+  position: absolute;
+  width: 1px;
+  height: 643px;
+  top: 21px;
+  left: 239px;
+  object-fit: cover;
+}
+
+.consultation-history .frame-3 {
+  display: flex;
+  flex-direction: column;
+  width: 877px;
+  align-items: flex-start;
+  gap: 15.16px;
+  padding: 15.16px;
+  position: absolute;
+  top: 21px;
+  left: 259px;
+  background-color: #ffffff;
+  border-radius: 12.13px;
+  border: 0.76px solid;
+  border-color: #0000001a;
+}
+
+.consultation-history .frame-4 {
+  display: flex;
+  width: 846.68px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #232323;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.consultation-history .frame-5 {
+  align-items: flex-start;
+  gap: 9.1px;
+  display: inline-flex;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .frame-6 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #434966;
+}
+
+.consultation-history .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #434966;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.consultation-history .img {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+
+.consultation-history .frame-wrapper {
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 24px;
+  background-color: var(--variable-collection-primary);
+  border-radius: 8px;
+  display: inline-flex;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .frame-7 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.consultation-history .group {
+  position: relative;
+  width: 849px;
+  height: 118.16px;
+  margin-right: -2.32px;
+}
+
+.consultation-history .text-wrapper-6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #232323;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.consultation-history .frame-8 {
+  display: flex;
+  width: 847px;
+  align-items: center;
+  gap: 20px;
+  position: absolute;
+  top: 36px;
+  left: 0;
+}
+
+.consultation-history .frame-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  margin-top: -1.00px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e5e5e5;
+}
+
+.consultation-history .frame-10 {
+  display: flex;
+  width: 181px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .frame-11 {
+  display: flex;
+  width: 124.5px;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+.consultation-history .ellipse {
+  position: relative;
+  width: 28px;
+  height: 28px;
+}
+
+.consultation-history .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 13.6px;
+  white-space: nowrap;
+}
+
+.consultation-history .img-2 {
+  position: relative;
+  width: 22px;
+  height: 22px;
+}
+
+.consultation-history .frame-12 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--variable-collection-light-grey);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.consultation-history .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--variable-collection-primary);
+  font-size: 9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 13.6px;
+  white-space: nowrap;
+}
+
+.consultation-history .frame-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  margin-top: -1.00px;
+  margin-bottom: -1.00px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e5e5e5;
+}
+
+.consultation-history .frame-14 {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .frame-15 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 64px 8px 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--variable-collection-light-grey);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.consultation-history .frame-16 {
+  display: flex;
+  width: 180px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .frame-17 {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .frame-18 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  margin-top: -1.00px;
+  margin-bottom: -1.00px;
+  margin-right: -1.00px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e5e5e5;
+}
+
+.consultation-history .ellipse-2 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+
+.consultation-history .group-2 {
+  position: relative;
+  width: 849px;
+  height: 424.16px;
+  margin-right: -2.32px;
+}
+
+.consultation-history .frame-19 {
+  display: flex;
+  flex-direction: column;
+  width: 847px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  position: absolute;
+  top: 36px;
+  left: 0;
+}
+
+.consultation-history .frame-20 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e5e5e5;
+}
+
+.consultation-history .frame-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e5e5e5;
+}
+
+.consultation-history .frame-22 {
+  display: flex;
+  width: 138.5px;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+.consultation-history .frame-23 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  background-color: #d0ede1;
+  border-radius: 14px;
+}
+
+.consultation-history .text-wrapper-9 {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #60c299;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.consultation-history .text-wrapper-10 {
+  color: #000000;
+  font-size: 10.6px;
+  text-align: center;
+  line-height: 13.6px;
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consultation-history .frame-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #e5e5e5;
+}
+
+.consultation-history .frame-25 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  background-color: #ffedec;
+  border-radius: 14px;
+}
+
+.consultation-history .text-wrapper-11 {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ff2a1e;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.consultation-history .group-3 {
+  position: absolute;
+  width: 1157px;
+  height: 78px;
+  top: 36px;
+  left: 20px;
+}
+
+.consultation-history .frame-26 {
+  display: flex;
+  flex-direction: column;
+  width: 136px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.consultation-history .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #747474;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.consultation-history .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #232323;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.consultation-history .frame-27 {
+  display: flex;
+  width: 234px;
+  align-items: center;
+  gap: 20px;
+  position: absolute;
+  top: 22px;
+  left: 923px;
+}
+
+.consultation-history .frame-28 {
+  display: inline-flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .img-3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.consultation-history .ellipse-wrapper {
+  position: relative;
+  width: 18px;
+  height: 19px;
+  top: 2px;
+  left: 3px;
+  background-image: url(./img/vector.svg);
+  background-size: 100% 100%;
+}
+
+.consultation-history .ellipse-3 {
+  position: relative;
+  width: 6px;
+  height: 6px;
+  left: 12px;
+  background-color: #fa6161;
+  border-radius: 3px;
+}
+
+.consultation-history .IMG {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  background-color: #c4c4c4;
+  border-radius: 50px;
+}
+
+.consultation-history .frame-29 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .text-wrapper-14 {
+  margin-top: -1.00px;
+  color: #232323;
+  font-size: 16px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consultation-history .group-4 {
+  position: absolute;
+  width: 239px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #e2e2e2;
+}
+
+.consultation-history .rectangle-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 5.28px;
+  position: absolute;
+  top: 43px;
+  left: 29px;
+  background-image: url(./img/frame-1000001093.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consultation-history .rectangle {
+  position: relative;
+  width: 179px;
+  height: 57px;
+  object-fit: cover;
+}
+
+.consultation-history .frame-30 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+  position: absolute;
+  top: 167px;
+  left: 23px;
+}
+
+.consultation-history .frame-31 {
+  display: flex;
+  width: 191px;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.consultation-history .rectangle-2 {
+  position: relative;
+  width: 4px;
+  height: 48px;
+  background-color: #ffffff;
+  border-radius: 20px 0px 0px 10px;
+}
+
+.consultation-history .frame-32 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #7e7e7e;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.consultation-history .rectangle-3 {
+  position: relative;
+  width: 4px;
+  height: 48px;
+  border-radius: 20px 0px 0px 10px;
+}
+
+.consultation-history .frame-33 {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.consultation-history .frame-34 {
+  display: flex;
+  width: 191px;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #207a95;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.consultation-history .text-wrapper-16 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}

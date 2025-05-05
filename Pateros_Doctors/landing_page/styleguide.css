@@ -1,0 +1,6 @@
+:root {
+  --color-text-default-secondary: var(--color-primitives-gray-500);
+  --color-background-default-default: var(--color-primitives-white-1000);
+  --color-primitives-gray-500: rgba(117, 117, 117, 1);
+  --color-primitives-white-1000: rgba(255, 255, 255, 1);
+}

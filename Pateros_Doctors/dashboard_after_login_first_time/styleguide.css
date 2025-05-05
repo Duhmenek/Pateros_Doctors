@@ -1,0 +1,11 @@
+:root {
+  --dmvgrey-text: rgba(135, 135, 135, 1);
+  --overline-font-family: "Open Sans", Helvetica;
+  --overline-font-weight: 600;
+  --overline-font-size: 10px;
+  --overline-letter-spacing: 0px;
+  --overline-line-height: 16px;
+  --overline-font-style: normal;
+  --variable-collection-primary: rgba(59, 154, 184, 1);
+  --variable-collection-light-grey: rgba(246, 246, 246, 1);
+}
